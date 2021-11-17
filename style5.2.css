@@ -1,0 +1,45 @@
+.container
+{
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    gap: 20px;
+}
+
+.row
+{
+    border: 2px solid black;
+    width: 1260px;
+    height: 100px;
+    margin: 10px auto;
+}
+.column2
+{
+    border: 2px solid black;
+    width: 1030px;
+    height: 220px;
+    margin-right: auto;
+    
+}
+.column
+{
+    border: 2px solid black;
+    width: 200px;
+    height: 220px;
+    margin-top: auto;
+}
+.yellow
+{
+    background-color: yellow;
+}
+.orange
+{
+    background-color: orange;
+}
+.green
+{
+    background-color: green;
+}
+.blue
+{
+    background-color:blue;
+}
