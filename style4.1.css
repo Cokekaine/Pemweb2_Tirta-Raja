@@ -1,0 +1,139 @@
+body 
+{margin: 0; 
+background-color: aquamarine;
+height: 100vh; 
+overflow-y: hidden
+}
+
+.div
+{background-color: #e08181; 
+padding: 15px; 
+padding-top: 50px;
+display:grid; 
+grid-template-columns: 35% 35% 25%;
+}
+
+#jayamakmur
+{font-weight: bold;
+}
+
+#icon
+{text-align: center;
+}
+
+#sepatu
+{color: black;
+}
+
+#icon2
+{text-align: end;
+}
+
+#icon3
+{text-align: center; 
+margin-bottom: auto; 
+margin-top: auto;
+}
+
+#sizeicon
+{width: 25px;
+}
+
+#sizeicon2
+{width: 30px;
+}
+
+.div2
+{display: grid; 
+grid-template-columns: 70% 30%; 
+margin-top: 20px
+}
+
+.div3
+{padding: 10px
+}
+
+.div4
+{background: rgba(247, 247, 247, 0.993);
+border-radius: 10px;
+padding: 10px;
+}
+
+.div5
+{display: grid;
+grid-template-columns: 10% 90%;
+margin-left: 30px;
+}
+
+#ceklis
+{font-size: 40px;
+}
+
+#order
+{font-size: 18px;
+}
+
+.div6
+{display: grid; 
+grid-template-columns: repeat(2, auto);
+}
+
+.div7
+{background: white;
+padding: 10px;
+border-radius: 10px;
+}
+
+#table
+{width: 100%
+}
+
+.div8
+{width: 100%;
+}
+
+#button
+{background-color: green; 
+color: white;
+}
+
+footer
+{background-color: #e08181; 
+padding: 0px 59.5px 0px 50px; 
+bottom: -40px; 
+width: 189vh; 
+color: black; 
+margin-top: 90px; 
+position: absolute;
+}
+
+.div9
+{display:grid; 
+grid-template-columns: 25% 50% 25%; 
+padding-bottom: 20px;
+}
+
+.div10
+{display: flex;
+}
+
+#jayamakmur2
+{font-size: 18px; 
+margin-top: 0px;
+}
+
+.div11
+{text-align: end; 
+margin-right: 60px;
+}
+
+.div12
+{display:grid; 
+grid-template-columns: 10% 70% 50%; 
+margin-right: 80px;
+}
+
+#newslatter
+{text-align: end; 
+margin-right: 60px;
+}

@@ -1,0 +1,92 @@
+body
+{
+    background-color: bisque; 
+    margin: 0%;
+}
+
+.fieldset
+{
+    width: auto; height: auto;
+}
+
+.div1
+{
+    width: 50%;
+}
+
+#img1
+{
+    margin-top: 50px; 
+    margin-left: 50px;
+}
+
+#profilename
+{
+    margin-bottom: 0; 
+    margin-top: -200px; 
+    margin-left: 300px;
+}
+
+#content1
+{
+    margin-top: 0; 
+    margin-bottom: 0; 
+    margin-left: 300px;
+}
+
+#email
+{
+    margin-top: 0; 
+    margin-bottom: 0; 
+    margin-left: 10px;  
+}
+
+#categories
+{
+    margin-bottom: 0; 
+    margin-top: -120px; 
+    margin-right: 50px; 
+    text-align: right;
+}
+
+#categories2
+{
+    text-align: right; 
+    margin-right: 50px;
+}
+
+#paragraf
+{
+    margin-top: 200px; 
+    margin-left: 50px; 
+    width: 90%; 
+    text-align: justify;
+}
+
+.content-bottom
+{
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-around; 
+    align-items: center;
+}
+
+.imgcontent
+{
+    display: grid; 
+    border: 1px solid black;
+    grid-template-columns: 50% 50%; 
+    grid-template-rows: 50% 50%; 
+    width: 250px;
+}
+
+.attachments
+{
+    width: 200px; 
+    height: 250px;
+}
+
+#address
+{
+    font-size: 20px;
+}
